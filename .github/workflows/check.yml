@@ -1,5 +1,7 @@
 name: Check firmware update
-
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   schedule:
