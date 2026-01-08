@@ -15,7 +15,7 @@ jobs:
       matrix:
         include:
           - model: "SM-S711B"
-            csc: "INS"
+            csc: "EUX"
             omc: "OXM"
             imei: "352404911234563"
         
